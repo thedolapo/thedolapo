@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thedolapo
+- 👋 Hi, I’m Habib Ayoade 'Dolapo
 - 👀 I’m interested a product designer with over 5 year's experience When I'm not designing, 
 i'm able to do other things like data analysis with Python or Power BI, 
 I also am able to write front end code using HTML/CSS ,JS & Angular .
